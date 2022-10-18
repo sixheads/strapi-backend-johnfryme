@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_text_sections",
+  "info": {
+    "displayName": "Text Section",
+    "icon": "th-list"
+  },
+  "options": {},
+  "attributes": {
+    "sectionTitle": {
+      "type": "string"
+    },
+    "sectionText": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_components_page_intros",
+  "info": {
+    "displayName": "Page intro",
+    "icon": "grip-lines",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "introText": {
+      "type": "text"
+    },
+    "ctaText": {
+      "type": "string"
+    },
+    "ctaLink": {
+      "type": "string"
+    }
+  }
+}
